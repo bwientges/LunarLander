@@ -1,0 +1,1 @@
+This folder holds all created models in the .h5 format.
