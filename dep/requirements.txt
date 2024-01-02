@@ -1,0 +1,6 @@
+#requirements for pip install
+gym[box2d]
+tensorflow[and-cuda]
+pandas
+matplotlib
+numpy
