@@ -1,6 +1,6 @@
 # LunarLander
 
-Implementations of Deep Q-Learning approaches (w. DQNs & DDQNs) for the Lunar Lander environment provided by OpenAI's gym. 
+Implementations of Deep Q-Learning approaches (w. DQNs & DDQNs) for the Lunar Lander v2 environment provided by OpenAI's gym. 
 
 Data and Models folder hold results as .svg's and csv's, respectively .h5 files. 
 
